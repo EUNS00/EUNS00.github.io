@@ -1,28 +1,28 @@
-# [Start Bootstrap - Coming Soon](https://startbootstrap.com/template-overviews/coming-soon/)
+# [Start Bootstrap - Stylish Portfolio](https://startbootstrap.com/template-overviews/stylish-portfolio/)
 
-[Coming Soon](https://startbootstrap.com/template-overviews/coming-soon/) is a simple coming soon theme for [Bootstrap](http://getbootstrap.com/) created by [Start Bootstrap](http://startbootstrap.com/). This theme features a background video with a mobile background image fallback.
+[Stylish Portfolio](http://startbootstrap.com/template-overviews/stylish-portfolio/) is a responsive, one page portfolio theme for [Bootstrap](http://getbootstrap.com/) created by [Start Bootstrap](http://startbootstrap.com/). The theme features multiple content sections with an off canvas navigation menu.
 
 ## Preview
 
-[![Coming Soon Preview](https://startbootstrap.com/assets/img/screenshots/themes/coming-soon.png)](https://blackrockdigital.github.io/startbootstrap-coming-soon/)
+[![Stylish Portfolio Preview](https://startbootstrap.com/assets/img/screenshots/themes/stylish-portfolio.png)](https://blackrockdigital.github.io/startbootstrap-stylish-portfolio/)
 
-**[View Live Preview](https://blackrockdigital.github.io/startbootstrap-coming-soon/)**
+**[View Live Preview](https://blackrockdigital.github.io/startbootstrap-stylish-portfolio/)**
 
 ## Status
 
-[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/BlackrockDigital/startbootstrap-coming-soon/master/LICENSE)
-[![npm version](https://img.shields.io/npm/v/startbootstrap-coming-soon.svg)](https://www.npmjs.com/package/startbootstrap-coming-soon)
-[![Build Status](https://travis-ci.org/BlackrockDigital/startbootstrap-coming-soon.svg?branch=master)](https://travis-ci.org/BlackrockDigital/startbootstrap-coming-soon)
-[![dependencies Status](https://david-dm.org/BlackrockDigital/startbootstrap-coming-soon/status.svg)](https://david-dm.org/BlackrockDigital/startbootstrap-coming-soon)
-[![devDependencies Status](https://david-dm.org/BlackrockDigital/startbootstrap-coming-soon/dev-status.svg)](https://david-dm.org/BlackrockDigital/startbootstrap-coming-soon?type=dev)
+[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/BlackrockDigital/startbootstrap-stylish-portfolio/master/LICENSE)
+[![npm version](https://img.shields.io/npm/v/startbootstrap-stylish-portfolio.svg)](https://www.npmjs.com/package/startbootstrap-stylish-portfolio)
+[![Build Status](https://travis-ci.org/BlackrockDigital/startbootstrap-stylish-portfolio.svg?branch=master)](https://travis-ci.org/BlackrockDigital/startbootstrap-stylish-portfolio)
+[![dependencies Status](https://david-dm.org/BlackrockDigital/startbootstrap-stylish-portfolio/status.svg)](https://david-dm.org/BlackrockDigital/startbootstrap-stylish-portfolio)
+[![devDependencies Status](https://david-dm.org/BlackrockDigital/startbootstrap-stylish-portfolio/dev-status.svg)](https://david-dm.org/BlackrockDigital/startbootstrap-stylish-portfolio?type=dev)
 
 ## Download and Installation
 
 To begin using this template, choose one of the following options to get started:
-* [Download the latest release on Start Bootstrap](https://startbootstrap.com/template-overviews/coming-soon/)
-* Install via npm: `npm i startbootstrap-coming-soon`
-* Clone the repo: `git clone https://github.com/BlackrockDigital/startbootstrap-coming-soon.git`
-* [Fork, Clone, or Download on GitHub](https://github.com/BlackrockDigital/startbootstrap-coming-soon)
+* [Download the latest release on Start Bootstrap](https://startbootstrap.com/template-overviews/stylish-portfolio/)
+* Install via npm: `npm i startbootstrap-stylish-portfolio`
+* Clone the repo: `git clone https://github.com/BlackrockDigital/startbootstrap-stylish-portfolio.git`
+* [Fork, Clone, or Download on GitHub](https://github.com/BlackrockDigital/startbootstrap-stylish-portfolio)
 
 ## Usage
 
@@ -46,7 +46,7 @@ You must have npm installed globally in order to use this build environment.
 
 ## Bugs and Issues
 
-Have a bug or an issue with this template? [Open a new issue](https://github.com/BlackrockDigital/startbootstrap-coming-soon/issues) here on GitHub or leave a comment on the [template overview page at Start Bootstrap](http://startbootstrap.com/template-overviews/coming-soon/).
+Have a bug or an issue with this template? [Open a new issue](https://github.com/BlackrockDigital/startbootstrap-stylish-portfolio/issues) here on GitHub or leave a comment on the [template overview page at Start Bootstrap](http://startbootstrap.com/template-overviews/stylish-portfolio/).
 
 ## About
 
@@ -65,4 +65,4 @@ Start Bootstrap is based on the [Bootstrap](http://getbootstrap.com/) framework 
 
 ## Copyright and License
 
-Copyright 2013-2019 Blackrock Digital LLC. Code released under the [MIT](https://github.com/BlackrockDigital/startbootstrap-coming-soon/blob/gh-pages/LICENSE) license.
+Copyright 2013-2019 Blackrock Digital LLC. Code released under the [MIT](https://github.com/BlackrockDigital/startbootstrap-stylish-portfolio/blob/gh-pages/LICENSE) license.
